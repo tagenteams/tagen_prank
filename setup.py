@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tagen_prank",
-    version="0.1.0",
+    version="0.2.0",
     author="tagenteams",
     author_email="UNKNOWN",
-    description="You can receive the message 'なにィ!!'",
+    description="You can receive the message 'なにィ!!!'",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/tagenteams/tagen_prank",
