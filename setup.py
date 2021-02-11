@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tagen_prank",
-    version="0.2.0",
+    version="0.3.0",
     author="tagenteams",
     author_email="UNKNOWN",
     description="You can receive the message 'なにィ!!!'",
