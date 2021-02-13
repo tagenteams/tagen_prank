@@ -21,5 +21,5 @@ setuptools.setup(
     entry_points = {
         'console_scripts': ['tagen_prank = tagen_prank.tagen_prank:main']
     },
-    python_requires='>=3.7',
+    python_requires='>=3.6',
 )
